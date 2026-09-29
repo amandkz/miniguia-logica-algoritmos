@@ -1,6 +1,10 @@
 # miniguia-logica-algoritmos
 Caderno temático de Lógica de Programação e Algoritmos criado no NotebookLM para o desafio da DIO.
 
+🔗 **Acesse o Caderno Temático Oficial no NotebookLM:** [Ver Caderno no NotebookLM](https://notebook.google.com/notebook/31f3447c-d5db-42d8-afc7-379724a807a5)
+
+---
+
 # 🚀 Miniguia de Estudos: Lógica de Programação e Algoritmos
 
 Este repositório apresenta o desenvolvimento de um Caderno Temático utilizando o **NotebookLM**, estruturado como parte do Desafio de Projeto da DIO para a formação em Análise e Desenvolvimento de Sistemas.
